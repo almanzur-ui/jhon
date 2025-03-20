@@ -1,6 +1,6 @@
 body {
-    background-color: gray;
-    color: bisque;
+    background-color: #2e2e2e;
+    color: f1f1f1;
  }
  
  .presentacion {
@@ -30,8 +30,8 @@ body {
 }
 
 #desplegar {
-    background-color:gray;
-    color: black;
+    background-color: #007a85;
+    color: white;
     display: block;
     margin: 0 auto;
 }
