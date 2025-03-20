@@ -1,6 +1,6 @@
 body {
     background-color: #2e2e2e;
-    color: f1f1f1;
+    color: bisque;
  }
  
  .presentacion {
@@ -47,7 +47,7 @@ body {
  }
  
  button {
-     background-color: #00adb5;
+     background-color: #007a85;
      color: white;
      border: none;
      padding: 10px 20px;
